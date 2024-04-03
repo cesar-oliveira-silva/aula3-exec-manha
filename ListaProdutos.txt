@@ -1,0 +1,4 @@
+id;nomeProduto;Preco;Quantidade
+1;amaciante;5.00;100 
+2;desinfetante;3.00;50 
+3;sabonete;1.00;70 
